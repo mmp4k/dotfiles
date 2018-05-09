@@ -1,0 +1,5 @@
+source ~/.dotfiles/.exports
+source ~/.dotfiles/.bash_prompt
+source ~/.dotfiles/.aliases
+source ~/.dotfiles/.bash_profile
+source ~/.dotfiles/.inputrc
