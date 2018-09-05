@@ -1,3 +1,6 @@
+PATH="~/Library/Python/2.7/bin:$PATH"
+alias phpqa='docker run --init -it --rm -v $(pwd):/project -v $(pwd)/var/phpqa:/tmp -w /project jakzal/phpqa:alpine'
+
 # Case-insensitive globbing (used in pathname expansion)
 shopt -s nocaseglob;
 
